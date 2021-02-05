@@ -1,4 +1,5 @@
 ![My Project](https://github.com/zaraana/zaraana.github.io/blob/main/img/Individual%20Project..gif)
+
 # Welcome to this brief intro to ```my project```  😁
 
 ---
@@ -13,9 +14,9 @@
 
 ## Intro
 
-This project is part of the Hack Your Future Belgium's precourse.The main task is to create our personal web page, using HTML and CSS.I managed to create 👇
+This project is part of the Hack Your Future Belgium's precourse.The main task is to create our personal web page, using HTML and CSS.I managed to create this Webpage 👇
 
-### [Webpage](https://zaraana.github.io/)
+### [Zahra/زهرة🌹](https://zaraana.github.io/)
 
 ---
 
