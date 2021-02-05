@@ -1,3 +1,4 @@
+![My Project](https://github.com/zaraana/zaraana.github.io/blob/main/img/Individual%20Project..gif)
 # Welcome to this brief intro to ```my project```  😁
 
 ---
