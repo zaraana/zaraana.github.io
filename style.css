@@ -30,6 +30,7 @@
   margin-left: 0px;
   background-size: cover;
   float: left;
+  background-image: url(img/background.jpeg);
 }
 
 div#container {
