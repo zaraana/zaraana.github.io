@@ -33,7 +33,7 @@
   background-image: url(img/background.jpeg);
 }
 
-div#container {
+div#container { 
   padding-left: 75px;
   padding-right: 75px;
   padding-top: 75px;
@@ -46,12 +46,11 @@ div#container {
   position: absolute;
   background-image: url(img/background.jpeg);
   background-size: cover;
-  min-width: 1000px;
 }
 .profile {
   border-radius: 0%;
   height: 480px;
-  margin-right: 250px;
+
 }
 .section {
   margin-top: 100px;
