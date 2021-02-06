@@ -46,6 +46,7 @@ div#container {
   position: absolute;
   background-image: url(img/background.jpeg);
   background-size: cover;
+  min-width: 1000px;
 }
 .profile {
   border-radius: 0%;
