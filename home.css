@@ -41,7 +41,7 @@ font-family:'Josefin Sans', sans-serif;
   margin-bottom: 30px;
   margin-top: 30px;
 }
-p{
+p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -55,10 +55,6 @@ h3{
   font-family:'Josefin Sans', sans-serif;
   color: #1c1c1d;
   text-align: center;
-}
-h4{
- text-align: center;
-  text-decoration: underline; 
 }
 .wrapper .sidebar ul li{
   padding: 15px;
@@ -90,7 +86,11 @@ h4{
   left: 50%;
   transform: translateX(-50%);
   display: flex;
-
+}
+h4{
+  text-align: center;
+  margin-top: 10px;
+}
 .wrapper .sidebar a{
   display: block;
   width: 40px;
@@ -144,9 +144,10 @@ a{
  padding-top: 40px;
   float: center;
 }
-i{
-  padding-top: 10px;
-  position:rigt;
-
+ul{
+  padding-top: 10px;;
 }
-
+.img{
+margin-top: 100px;
+  margin-left: 1300px;
+}
