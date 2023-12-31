@@ -87,7 +87,7 @@ h3{
   transform: translateX(-50%);
   display: flex;
 }
-h4{
+h4,h3,h6{
   text-align: center;
 }
 .wrapper .sidebar a{
